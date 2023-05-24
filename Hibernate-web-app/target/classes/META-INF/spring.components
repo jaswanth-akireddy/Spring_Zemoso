@@ -1,0 +1,5 @@
+com.zemoso.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+com.zemoso.springdemo.dao.CustomerDAoImpl=org.springframework.stereotype.Component
+com.zemoso.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.zemoso.springdemo.service.CustomerServiceImpl=org.springframework.stereotype.Component
+com.zemoso.testdb.TestDbServlet=javax.servlet.annotation.WebServlet
